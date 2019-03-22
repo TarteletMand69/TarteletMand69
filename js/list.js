@@ -1,1 +1,1 @@
-document.write("<p1>small code test</p1>")
+document.write("<p1>small code test</p1><h2>2</h2><ul>lol</ul><li>something</li>")
