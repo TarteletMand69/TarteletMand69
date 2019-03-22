@@ -7,10 +7,16 @@ h1 {
     size:40;
     color:white;
     padding: 5px;
-}
+    }
 
 p {
     size: 14;
     color:white;
     padding:5px;
-}
+    }
+
+.bordertb {
+    border-top: 2px;
+    border-bottom: 4px;
+    border-color: white;
+    }
