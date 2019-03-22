@@ -21,3 +21,10 @@ p {
     border-color: white;
     border-width: 2px 0px 4px 0px;
     }
+
+.borderb {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: white;
+    border-width: 0px 0px 4px 0px;
+}
