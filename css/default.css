@@ -15,8 +15,9 @@ p {
     padding:5px;
     }
 
-.bordertb {
-    border-top: 2px;
-    border-bottom: 4px;
+.borderbb {
+    border-top-style: solid;
+    border-bottom-style: solid;
     border-color: white;
+    border-width: 2px 0px 4px 0px;
     }
