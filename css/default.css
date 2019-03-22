@@ -1,0 +1,16 @@
+
+body {
+    background: rosybrown;
+}
+
+h1 {
+    size:40;
+    color:white;
+    padding: 5px;
+}
+
+p {
+    size: 14;
+    color:white;
+    padding:5px;
+}
