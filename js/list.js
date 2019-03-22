@@ -1,5 +1,6 @@
-function replace(){
-document.getElementById('nav').innerHTML = <ul class="nav">
+function ListInsert () {
+document.write(
+    '<ul class="nav">
 <li> <a href="https://folder6.github.io/">Home</a> </li>
 <li> <a href="https://folder6.github.io/html/ralf.html">Ralf</a> </li>
 <li> <a href="https://folder6.github.io/html/mads.html">Mads</a> </li>
@@ -14,5 +15,5 @@ document.getElementById('nav').innerHTML = <ul class="nav">
 <li> <a href="https://folder6.github.io/html/peter.html"><strike>Peter</strike></a> </li>
 <li> <a href="https://folder6.github.io/html/links.html">Links</a> </li>
 <li> <a href="https://folder6.github.io/html/chat.html">Chat</a> </li>
-</ul>;
+</ul>');
 }
