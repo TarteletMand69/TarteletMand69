@@ -23,6 +23,7 @@ p {
     }
 
 .borderb {
+    display:inline-block;
     border-top-style: solid;
     border-bottom-style: solid;
     border-color: white;
