@@ -1,2 +1,0 @@
-# gbtarteletfyld
-Gode sager

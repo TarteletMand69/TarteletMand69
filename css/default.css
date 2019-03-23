@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Cambria;
+    src: url('https://www.folder6.github.io/fonts/Cambria.ttf')
+}
 
 body {
     background-color: rosybrown;
