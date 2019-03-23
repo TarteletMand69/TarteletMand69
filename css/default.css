@@ -7,12 +7,14 @@ h1 {
     size:40;
     color:white;
     padding: 5px;
+    text-align: left;
     }
 
 p {
     size: 14;
     color:white;
     padding:5px;
+    text-align: left;
     }
 
 .borderbb {
